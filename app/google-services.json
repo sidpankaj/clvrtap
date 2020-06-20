@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "705587927988",
+    "firebase_url": "https://techtest-bfcd3.firebaseio.com",
+    "project_id": "techtest-bfcd3",
+    "storage_bucket": "techtest-bfcd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705587927988:android:00dee5ac6b600373ba70e1",
+        "android_client_info": {
+          "package_name": "com.example.techtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705587927988-bk0j5a07m7qq3ch6fmb60okjij4l7je7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIBhB5l4IHNPSIsoDII4MK9YKVbOWPhNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705587927988-bk0j5a07m7qq3ch6fmb60okjij4l7je7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

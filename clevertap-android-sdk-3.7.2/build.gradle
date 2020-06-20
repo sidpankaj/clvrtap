@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('clevertap-android-sdk-3.7.2.aar'))
