@@ -1,0 +1,10 @@
+BufferedReader csvReader = new BufferedReader(new FileReader(pathToCsv));
+while ((row = csvReader.readLine()) != null) {
+    String[] data = row.split(",");
+            profileUpdate.put("User ID","");                 
+            profileUpdate.put("Location","");                  
+            profileUpdate.put("Customer Type","");               
+            profileUpdate.put("Subcription ID",""); 
+            profileUpdate.put("Gender",""); 
+}
+csvReader.close();            
